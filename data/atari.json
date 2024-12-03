@@ -1,0 +1,182 @@
+[
+    {
+        "idx": 0,
+        "title": "Tesla Model S",
+        "location": "Tesla, Inc.",
+        "date": "September 21st",
+        "days": "1",
+        "image": "tesla.jpg",
+        "rating": "4"
+    },
+    {
+        "idx": 1,
+        "title": "Ford Mustang",
+        "location": "Ford Motor Company",
+        "date": "November 11th",
+        "days": "6",
+        "image": "mustang.png",
+        "rating": "4"
+    },
+    {
+        "idx": 2,
+        "title": "Chevrolet Corvette",
+        "location": "Chevrolet",
+        "date": "February 5th",
+        "days": "5",
+        "image": "corvette.png",
+        "rating": "4"
+    },
+    {
+        "idx": 3,
+        "title": "Porsche 911",
+        "location": "Porsche",
+        "date": "July 3rd",
+        "days": "2",
+        "image": "porsche.jpg",
+        "rating": "4"
+    },
+    {
+        "idx": 4,
+        "title": "BMW M3",
+        "location": "BMW",
+        "date": "January 28th",
+        "days": "1",
+        "image": "bmw.jpg",
+        "rating": "4"
+    },
+    {
+        "idx": 5,
+        "title": "Audi R8",
+        "location": "Audi",
+        "date": "April 22nd",
+        "days": "4",
+        "image": "audi.jpg",
+        "rating": "4"
+    },
+    {
+        "idx": 6,
+        "title": "Lamborghini Aventador",
+        "location": "Lamborghini",
+        "date": "December 18th",
+        "days": "7",
+        "image": "lambo.png",
+        "rating": "4"
+    },
+    {
+        "idx": 7,
+        "title": "Ferrari F8 Tributo",
+        "location": "Ferrari",
+        "date": "May 4th",
+        "days": "3",
+        "image": "ferrari.jpg",
+        "rating": "4"
+    },
+    {    "idx": 8,
+        "title": "Mercedes-Benz S-Class",
+        "location": "Mercedes-Benz",
+        "date": "October 9th",
+        "days": "1",
+        "image": "mercedes .png",
+        "rating": "4"
+    },
+    {
+        "idx": 9,
+        "title": "Jaguar F-Type",
+        "location": "Jaguar",
+        "date": "November 1st",
+        "days": "2",
+        "image": "jaguar.png",
+        "rating": "4"
+    },
+    {
+        "idx": 10,
+        "title": "Nissan GT-R",
+        "location": "Nissan",
+        "date": "September 26th",
+        "days": "5",
+        "image": "nissan.png",
+        "rating": "4"
+    },
+    {
+        "idx": 11,
+        "title": "Honda Civic",
+        "location": "Honda",
+        "date": "July 15th",
+        "days": "7",
+        "image": "honda.png",
+        "rating": "4"
+    },
+    {
+        "idx": 12,
+        "title": "Toyota Supra",
+        "location": "Toyota",
+        "date": "June 21st",
+        "days": "6",
+        "image": "supra.png",
+        "rating": "4"
+    },
+    {
+        "idx": 13,
+        "title": "Aston Martin DB11",
+        "location": "Aston Martin",
+        "date": "November 17th",
+        "days": "2",
+        "image": "aston_martin.jpg",
+        "rating": "4"
+    },
+    {
+        "idx": 14,
+        "title": "McLaren 720S",
+        "location": "McLaren",
+        "date": "October 8th",
+        "days": "5",
+        "image": "mclaren .png",
+        "rating": "4"
+        
+    },
+    {
+        "idx": 15,
+        "title": "Bentley Continental GT",
+        "location": "Bentley",
+        "date": "September 2nd",
+        "days": "3",
+        "image": "bentley.png",
+        "rating": "4"
+    },
+    {
+        "idx": 16,
+        "title": "Volkswagen Golf",
+        "location": "Volkswagen",
+        "date": "November 14th",
+        "days": "1",
+        "image": "volkswagon.png",
+        "rating": "4"
+    },
+    {
+        "idx": 17,
+        "title": "Subaru WRX",
+        "location": "Subaru",
+        "date": "April 15th",
+        "days": "6",
+        "image": "subaruWRX.png",
+        "rating": "4"
+    },
+    {
+        "idx": 18,
+        "title": "Dodge Charger",
+        "location": "Dodge",
+        "date": "March 19th",
+        "days": "7",
+        "image": "dodge.png",
+        "rating": "4"
+    },
+    {
+        "idx": 19,
+        "title": "Mazda MX-5 Miata",
+        "location": "Mazda",
+        "date": "December 4th",
+        "days": "4",
+        "image": "mazda.png",
+        "rating": "4"
+    }
+]

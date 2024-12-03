@@ -1,0 +1,127 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Car Catalog</title>
+    
+     <!-- Bootstrap CSS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css" rel="stylesheet" >
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRAX9uLywY9klYw6R6cDZfQi1sh5jI8l6u/aB2o6Y" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="stylesheets/style.css">
+  
+<!--Favicon goes here-->
+    <link rel="icon" type="image/jpeg" href="./images/car-icon.jpg">
+    <style>
+        h1 {
+            font-weight: bolder;
+            text-align: center;
+        }
+
+    </style>
+  
+    <!-- Put image in site anywhere-->
+</head>
+<body style="background-color: #f7f7f7;">
+    <h1>Welcome to Car Directory</h1>
+    <!--The main header on the home page-->
+    <!--Container with a row for text next to an image-->
+    <div class=""container>
+        <div class="row">
+            <div class="col"><p style="text-align: center; border: 0in black; font-size: 20px;">This is our car catalog home page, we will have different pages filtering different makes, models, and years for different cars.</p></div>
+            
+        </div>
+    </div>
+    
+<h1>Car Catalog</h1>
+<br>
+     
+<style>
+  .visible-button {
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+    border: none;
+    width: 40px;
+    height: 330px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    outline: none;
+    transition: background-color 0.3s ease;
+  }
+
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    background-size: 100%, 100%;
+    filter: invert(100%); /* Makes the arrows white for visibility */
+  }
+  .carousel-control-prev {
+    left: 300px;
+    nav-down: 100px;
+  }
+
+  .carousel-control-next {
+    right: 300px;
+    nav-down: 100px;
+  }
+</style>
+
+<div class="container">
+  <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <a href="./Sedan.html">
+          <img class="d-block w-50" src="./images/Sedan-Pic.jpg" alt="First slide" style="display: block; margin: 0 auto;">
+        </a>
+      </div>
+      <div class="carousel-item">
+        <a href="./SUV.html">
+          <img class="d-block w-60" src="./images/SUV-photo.jpg" alt="Second slide" style="display: block; margin: 0 auto;">
+        </a>
+      </div>
+      <div class="carousel-item">
+        <a href="./truck.html">
+          <img class="d-block w-30" src="./images/truck-photo.jpg" alt="Third slide" style="display: block; margin: 0 auto;">
+        </a>
+      </div>
+    </div>
+
+  
+
+    <!-- Previous Button -->
+    <button class="carousel-control-prev visible-button" type="button" data-bs-target="#carouselExampleSlidesOnly" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+
+    <!-- Next Button -->
+    <button class="carousel-control-next visible-button" type="button" data-bs-target="#carouselExampleSlidesOnly" data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+    </button>
+  </div>
+</div>
+
+
+<div class="text-center">
+  <a href="./cars.html" class="btn btn-primary btn-lg">Car Inventory</a>
+  <br><br>
+  <a href="./contact.html" class="btn btn-primary btn-lg">Contact Page</a>
+</div>
+
+<!--
+<script>
+  // jQuery search functionality (placeholder)
+  $('#searchButton').on('click', function() {
+      const query = $('#searchInput').val().toLowerCase();
+      // Implement search logic against your JSON data here
+      console.log('Searching for:', query);
+      // Filter items from a JSON document
+  });
+</script>
+-->
+
+</body>
+</html>

@@ -1,0 +1,38 @@
+[
+  {
+    "idx": 0,
+    "title": "Lost in Paradise",
+    "location": "Hawaii",
+    "date": "November 15th",
+    "days": "7",
+    "image": "flower.jpg",
+    "rating": "4"
+  },
+  {
+    "idx": 1,
+    "title": "Breathtaking Beauty",
+    "location": "Yosemite",
+    "date": "June 25th",
+    "days": "4",
+    "rating": "4",
+    "image": "falls.jpg"
+  },
+  {
+    "idx": 2,
+    "title": "Wild Expanse",
+    "location": "Yellowstone",
+    "date": "August 11th",
+    "days": "6",
+    "rating": "2",
+    "image": "bison.jpg"
+  },
+  {
+    "idx": 3,
+    "title": "Awe Inspiring",
+    "location": "Zion",
+    "date": "September 16th",
+    "days": "4",
+    "rating": "4",
+    "image": "peak.jpg"
+  }
+]
